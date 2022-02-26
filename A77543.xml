@@ -1,0 +1,232 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Britains king revived: or, a seasonable warning to the kingdom of Scotland assembled in Parliament, upon the first of January, 1660. By Scotlands true friend.</title>
+            <author>Scotlands true friend.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77543</idno>
+            <idno type="STC">Wing B4811A</idno>
+            <idno type="STC">ESTC R223959</idno>
+            <idno type="EEBO-CITATION">99896729</idno>
+            <idno type="PROQUEST">99896729</idno>
+            <idno type="VID">135671</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77543)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135671)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2440:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Britains king revived: or, a seasonable warning to the kingdom of Scotland assembled in Parliament, upon the first of January, 1660. By Scotlands true friend.</title>
+                  <author>Scotlands true friend.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Scotland --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135671:1"/>
+            <pb facs="tcp:135671:1" rendition="simple:additions"/>
+            <p>Britains KING REVIVED: Or, A Seaſonable Warning To the KINGDOM of SCOTLAND Aſſembled in PARLIAMENT, Upon the firſt of <hi>January,</hi> 1660.</p>
+            <p>By SCOTLANDS true Friend.</p>
+            <q>
+               <bibl>Joſh. 22.10, &amp;c.</bibl>
+               <p>And when they came to the borders of Jordan that are in the land of Canaan, the children of Reuben, and the children of Gad, and the half tribe of Manaſſeh built there an altar by Jordan, a great altar to ſee to.</p>
+            </q>
+            <p>LONDON: Printed in the year 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:135671:2"/>
+            <pb n="1" facs="tcp:135671:2"/>
+            <head>BRITAINS KING revived, <hi>&amp;c.</hi>
+            </head>
+            <p>OUtward Providences and Diſpenſations, are not the Guides and Directories of Mans actions: but as in the bitter trouble of the one, there may be wiſdom; ſo in the ſweet peace of the other, may be fooliſhneſs and evil; And the time of <hi>caſting off the Armour,</hi> more dangerous from within, then ſometine the <hi>putting on</hi> of the ſame, is hurtful from with<g ref="char:EOLhyphen"/>out. A victorious Army may fall in themſelves, and their own reſolutions work trouble and diſquietneſs. Laudable intentions, and good actions in matter, may be miſconſtrued, and ſubject to blame, through defect of form, and prudential circumſtances. Coifederacies may ſometimes debord beyond their limits, and the leſſer party unawares impoſe upon the greater. Religion may occaſion miſtakes; neither doth the ſpecious luſtre and beauty of it, exempt from cenſure. People without the coun<g ref="char:EOLhyphen"/>terance of Authority, may intend well; but an harmony be<g ref="char:EOLhyphen"/>twixt them, is the ſure band of all their work.</p>
+            <p>All theſe Aphoriſms of State, and Experimental Obſervati<g ref="char:EOLhyphen"/>ons, are clear here, and plainly verified, upon the firſt view of the condition of this little <hi>Iſrael,</hi> and review of <hi>Scotlands</hi> affairs and tranſactions theſe fatal years paſt. Twenty and ſeven years war with <hi>Canaan,</hi> and peace in the end, through valour and wiſ<g ref="char:EOLhyphen"/>dom, turneth into a dangerous Jealouſie betwixt the greater and the leſſer Tribes: their parting of company, with joy and ſpoil of Enemies, threatens parting of hearts, to further ſor<g ref="char:EOLhyphen"/>row, and ſpilling of their own bloud; the turning of their wea<g ref="char:EOLhyphen"/>pons homeward beyond <hi>Jordan,</hi> ready to ſheath their ſwords in their own bowels at <hi>Jordan,</hi> and turn thoſe ſwelling waters, in<g ref="char:EOLhyphen"/>to bloud of ſwelling hearts.</p>
+            <pb n="2" facs="tcp:135671:3"/>
+            <p>The religious intention of the leſſer Tribes, to <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to themſelves the true Religion, and not to be <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the diviſion of <hi>Jordan,</hi> was commendable: <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ing in it, was unadviſed, without the priva<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>nour <hi>Joſhua,</hi> or their other brethren the <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ner of it unlawful, by an Altar out of <hi>Shiloh</hi> or <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the place of it, more ſcandalous to their Brethren, then ſafe <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them ſelves: an Altar upon their brethrens ſide of <hi>Jor<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſig<g ref="char:EOLhyphen"/>nificant of their right and intereſt in the true God as upon their own ſide: the border beyond <hi>Jordan,</hi> is their <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> into Jealouſie. The indiſcreet extent and limits of the<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> true Worſhip, unto their neighbours Land, is an <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> them, beyond the moderation of Fraternity, and occaſioneth a miſunderſtanding. <hi>Reuben</hi> here ſeeth the ſon of <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> too haſtily: <hi>Gad</hi> in his purpoſe advanceth in troops moſt ſuriouſly: and <hi>Manaſſeh</hi> in the work, forgets too ſpeedily all form<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oyls in the defence of Religion in <hi>Aegypt</hi> and the wilderneſs, and his fathers houſe, in the enjoyment of it; as thus by a juſt miſtake of their brethren, to expoſe it to danger by a Civil War and di<g ref="char:EOLhyphen"/>viſion.</p>
+            <p>The greatneſs of this Altar to ſee to, begets no charity to their work, nor can plead their integrity of heart: forever I<g ref="char:EOLhyphen"/>dolatry, is more expenſive, coſtly and painful, then true <hi>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re and undefiled Religion;</hi> and the golden Calf in the wilderneſs, robbeth <hi>Iſrael</hi> of all their jewels and golden ear-rings: the ſure of <hi>Gideon</hi>'s Ephod at <hi>Opbrah,</hi> did ſpoil his people of all their golden collars and ornaments of prey from the Midianites and their Kings. <hi>Molech</hi> the god of <hi>Ammon</hi> and <hi>Sidon,</hi> bereaveth his worſhippers of their firſt-born, and ſpareth them not from the cruelty of the fire. <hi>Great is Diana of the Epheſians,</hi> and her ſilver-ſmiths very rich. And the people of <hi>Iſrael</hi> did diſpence with their many painful, long and weariſome journeys, to go (even to <hi>Dan</hi>) to worſhip the golden calf of <hi>Jeroboam the ſon of Nebat who made Iſrael to ſin.</hi> Yea, under greateſt ſhew of Reli<g ref="char:EOLhyphen"/>gion, and pretence of Zeal, may be acted greateſt Cruelty, Fraud and Covetouſneſs; as witneſs <hi>Simeon</hi> and <hi>Levi</hi> the two ſons of <hi>Jacob,</hi> in their Circumciſion to <hi>Hamor</hi> King of <hi>Shechem,</hi> and his ſon and people, before the marriage with <hi>Dinah</hi> their ſiſter: and
+<pb n="3" facs="tcp:135671:3"/>
+               <hi>Jehn</hi> his covetouſneſs of the Kingdom of <hi>Iſrael</hi> from the houſe of <hi>Ahab,</hi> by his zealous eruelty, killing all the Prieſts of <hi>Baal,</hi> was acted, under his hypocrifie in the worſhipping of their falſe God.</p>
+            <p>The two Tribes and an half meaned well in Religion, but not prudently, with the advice of <hi>Joſhua</hi> their Governour, before departing to their inheritance (who had ſufficiently directed them in the ways of God) nor dutifully, with his conſent, who was appointed by the Lord as a <hi>nurſing father</hi> with <hi>Eleazar</hi> the ſon of <hi>Aaron</hi> in his Church; neither in their enterpriſe did they enquire at the mouth of the Lord, nor conſult his wiſdom, in that great important caſe and hard matter: and therefore they are in trouble. Mans ſtrength and wiſdom in the matters of God, is folly; and (when raſhly handled through preſumption and ſpiritual pride) falleth to the ground: When mixed with the impurity of his own thoughts and ends, the building pro<g ref="char:EOLhyphen"/>veth but <hi>ſtubble and hay,</hi> as <hi>daubed with untempered mortar,</hi> and without the ſtability and indurance of gold and ſilver ſincerity, and uprightneſs, in all ſelf-deniedneſs. But when the Ruler of the Lords people, in his holy things or providentials, is conſul<g ref="char:EOLhyphen"/>ted with, and by their prayers and petitions with tears, is invi<g ref="char:EOLhyphen"/>ted to the work; then heavens influence and earths fruitfulneſs is joyned together for a bleſſed generation and production; heavens mediatory bleſſing, with the Lords ſoveraignty of power in his Vicegerent upon earth doth proceed. And as in all Gods works <hi>which he ſees to be good</hi> (eſpecially in what concerns immediately his glory upon earth) there is the power of the Father, by the grace of the Son, for the operation of the Spirit: ſo in all the Spirits motions upon a people in matters of Religion, and act<g ref="char:EOLhyphen"/>ings thereupon by the grace of the Son, there ſhould be the conſulting wiſdom, and conſenting confirming Power and Au<g ref="char:EOLhyphen"/>thority of the King and Governour (the Father's Vicegerent upon earth) if intended for ſucceſs and a bleſſing, with peace, profit and duration.</p>
+            <p>The building of the walls of <hi>Jeruſalem,</hi> and Reformation of the Worſhip of God, was much intended and ſought after by the people, in the days of <hi>Ezra</hi> the Scribe, but ſlowly proceeded in for the ſpace of fifty years, till the Governour <hi>Nehemiah</hi> came;
+<pb n="4" facs="tcp:135671:4"/>and then alſo, much divided by the wicked enemy, by oppoſition and conſpiracie againſt him, as the top-ſtone of that work. The King is the pillar and ſupporter of Religion; and therefore his place in the Temple was always by a pillar (as the manner was) 2 <hi>King.</hi> 11.14. and 23.3. He is the hedge and guard of the Church of God in ſpirituals and temporals; and therefore the Princes portion was on the one and other ſide, and before the holy portion and the poſſeſſion of the city, <hi>Ezek.</hi> 45.7. and 48.21. In thoſe days when every man followed the luſt of his eyes, and the abominations of his heart, there was no King in <hi>Iſrael,</hi> Judg. 17.6. The Law and Teſtimony is given to the King, to govern the Lords people thereby, <hi>Deut.</hi> 17.19, 20. 2 <hi>King.</hi> 11.12. And the people in that Government, do owe to him obedience and loyalty. And <hi>the manner of his kingdom</hi> is told to the people by <hi>Samuel</hi> the Prophet, and laid up before the Lord as Judge, for juſtice and puniſhment in caſe of the peoples diſloyalty and diſ<g ref="char:EOLhyphen"/>obedience, 1 <hi>Sam.</hi> 10.25. The King is <hi>Cuſtos utriuſque Tabulae:</hi> to <hi>Moſes</hi> the Governour of <hi>Iſrael</hi> were the two Tables of the Law delivered, and he onely called up to the mount of God, when <hi>Aaron</hi> and <hi>Hur</hi> and the Elders of <hi>Iſrael</hi> were at a diſtance from him, <hi>Exod.</hi> 22.2, 14. And when the Book of the Law was found by <hi>Hilkiah</hi> the High-prieſt in the days of <hi>Joſiah,</hi> it was ſent to the King for obſervance, and government of the people by the ſame, 2 <hi>King.</hi> 22.8, 10.</p>
+            <p>This Religious miſtake betwixt the Tribes, is reconciled and cleared, by their candid, fair, and large declaration, That the building of their Altar great to ſee to, was not done to rebel a<g ref="char:EOLhyphen"/>gainſt the Lord and their Brethren, nor to impoſe upon them; but for a witneſs of their zeal to his glory, and intereſt for them<g ref="char:EOLhyphen"/>ſelves and generations after them, in the true worſhip of his Name: not to innovate and bring in a ſtrange Religion, but ra<g ref="char:EOLhyphen"/>ther not to eſtrange themſelves and poſterity from the true Re<g ref="char:EOLhyphen"/>ligion. It was not done in rebellion againſt Authority, nor in tranſgreſſion againſt the God of <hi>Iſrael,</hi> but with loyalty to the Governour, (albeit not conſulted with by them therein) and in their zeal to follow the Lord: Not to debord from the Laws and Ordinances of God, but that the border of <hi>Jordan</hi> which boun<g ref="char:EOLhyphen"/>ded them from the earthly <hi>Canaan</hi> of the ten Tribes, might not divide them from the heavenly <hi>Canaan.</hi>
+            </p>
+            <pb n="5" facs="tcp:135671:4"/>
+            <p>Now let <hi>Scotland</hi> trace the ſteps of this unadviſed religious procedure and miſtake, and cloſe their Tragical diſpenſations theſe many years paſt, in a Comical, Loyal, Chriſtian and peace<g ref="char:EOLhyphen"/>able Concluſion, and fair Declaration to their Brethren of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and all Reformed Churches in the world, and their lawful righteous Prince and Governour; that all of them may ſay and perceive this day, that the Lord is amongſt them, and hath de<g ref="char:EOLhyphen"/>livered them out of the hand of the Lord, becauſe that <hi>Scotland</hi> hath not committed this treſpaſs; and ſaved them from the zea<g ref="char:EOLhyphen"/>lous wrath and revenging hand of the Lords Anointed, becauſe that they have not intended rebellion againſt him.</p>
+            <p>Theſe twenty years paſt and upwards, <hi>Scotland</hi> hath helped their Brethren in <hi>England</hi> and other Nations againſt the manners of the <hi>Canaanites,</hi> of ſuſpected Hereſie, Popery, and Idolatrous Will-worſhip: once and again, have they gone over <hi>Jordan</hi> to them, armed, leaving their wives, children, and flocks behinde them; and with their weapons in the one hand, and their tools in the other hand, labored to build the walls of <hi>Jeruſalem,</hi> by a juſt Reformation, againſt their common enemy <hi>that man of ſin,</hi> and the Beaſt of <hi>Rome,</hi> and their Emiſſaries: and that work being done and ſetled, by the many gracious Conceſſions and Indul<g ref="char:EOLhyphen"/>gences of the late King, of ever-bleſſed memory to both Nati<g ref="char:EOLhyphen"/>ons; and <hi>Scotland</hi> ſent home again to their tents and the land of their poſſeſſion, with a bleſſing of friendly aſſiſtance to their loſſes <hi>Anno</hi> 1641, and reſentment of their juſt charges and ex<g ref="char:EOLhyphen"/>pences <hi>Anno</hi> 1646. (albeit, to ſay the truth, more then the half thereof be yet in remainder unſatisfied.) Yet after their return, they build a great Altar to ſee to, by their new fears of altera<g ref="char:EOLhyphen"/>tion of former tranſactions, <hi>Anno</hi> 1642. and 1643. and a League and Covenant with their Brethren in <hi>England</hi> and <hi>Ireland</hi> the ſame year, (without the approbation and conſent of the late King, their valorous, wiſe &amp; couragious <hi>Joſhua</hi>) is propoſed and agreed upon; which in the judgment of many of the other Bre<g ref="char:EOLhyphen"/>thren, was an impoſing of the two Tribes and a half upon the ten Tribes, and a building of that Altar upon the border of their <hi>Canaan,</hi> not ſo ſignificant of the Principles of true Reli<g ref="char:EOLhyphen"/>gion, as occaſioning a jealouſie and miſ-underſtanding between them and their lawful Liege-Lord and King, in their loyalty to
+<pb n="6" facs="tcp:135671:5"/>him and his poſterity; as may witneſs the ſuſpicion of forſaking of his Royal Perſon at <hi>Neweaſtle, Anno</hi> 1646. and in <hi>Anno</hi> 1648. during his reſtraint at the Iſle of <hi>Wight.</hi>
+            </p>
+            <p>This Altar of League and Covenant was great to ſee to; great in the eyes of God, by the fruit of his grace upon the ſpirits of men, (if done ſincerely and univerſally by all, with the approba<g ref="char:EOLhyphen"/>tion of the Supreme Magiſtrate;) terrible in the ſight of Satan and hell, and all wickedneſs, (if ſucceſsful amongſt the Nations in life and converſation, by that grace;) ſpecious and full of luſtre, for Unity and Uniformity of Truth, Worſhip and Go<g ref="char:EOLhyphen"/>vernment, (if uprightly intended with conſent aforeſaid, with<g ref="char:EOLhyphen"/>out ſelf-intereſt, unbyaſſed ends of covetouſneſs and ambition, without hypocriſie.) It was long and painful in building, with great ſufferings in life and eſtate; and coſtly, with infinite trea<g ref="char:EOLhyphen"/>ſure of Publike Faith from many honeſt men, in their integrity of heart, and innocencie of hands, to God, and Royal authori<g ref="char:EOLhyphen"/>ty over them: Yet as all theſe circumſtances are no true chara<g ref="char:EOLhyphen"/>cters of a good Cauſe, ſo neither are they ſymptomes of a bad Cauſe, where ſincerity and candidneſs of heart with the grace of ſelf-denial are in the work.</p>
+            <p>Now that <hi>Scotland</hi> is this day delivered out of the hands of her enemies (the worſt of men) to whom the Lord had ſold her theſe ten years paſt in the fierceneſs of his anger; and by her moſt righteous Kings return from the wilderneſs (for the fins of his people) to the glory of his Throne, and magnificence of his Kingdom, with the ſeeking of his Lords and Counſellors unto him, Is alſo by his moſt gracious goodneſs reſtored to her an<g ref="char:EOLhyphen"/>cient Liberties and Priviledges of a free Nation; and that babes and children are no more her Counſellors and Judges, but a free Parliament granted to her of her own Nobles and heads of <hi>Iſrael;</hi> and that her Prince with the advice of her brethren in <hi>England,</hi> hath ſent his Commiſſioner to her, for her better ſet<g ref="char:EOLhyphen"/>tlement and eſtabliſhing of his Kingdom there:</p>
+            <p>Let her now plead her cauſe with him, in all ſubmiſſive hu<g ref="char:EOLhyphen"/>mility and uprightneſs of heart, and clear to her King the cauſe and reaſon of building this her great Altar of League and Covenant to ſee to, whether or not in tranſgreſſion againſt the Lord, and rebellion againſt his Anointed? Is the ſuſpected ini<g ref="char:EOLhyphen"/>quity
+<pb n="7" facs="tcp:135671:5"/>and jealouſie of her former National Covenant, 1638, too little in the balance of his Royal judgement, and all Refor<g ref="char:EOLhyphen"/>med Churches abroad, but at this day alſo by the League and Covenant, ſhe muſt again bring jealouſie upon her bound loy<g ref="char:EOLhyphen"/>alty to God and her Prince, and to morrow bring wrath and diſhonour on the whole Congregation of <hi>Iſrael?</hi> Shall yet <hi>the accurſed thing</hi> of <hi>Achans</hi> covetouſneſs, and <hi>the errour of Ba<g ref="char:EOLhyphen"/>laam for reward,</hi> and <hi>the gainſaying of Core,</hi> be her ſuſpected ſhame, and deep conceived &amp; too publikely ſpoken of reproach? Let <hi>the Lord God of gods, the Lord God of gods,</hi> and all the Chri<g ref="char:EOLhyphen"/>ſtian world know the truth herein: for you alone that are in preſent Parliament, do not periſh in this iniquity. That reproach hath made <hi>Jacobs</hi> name to <hi>ſtink among the Nations.</hi>
+            </p>
+            <p>Lay open before the Lord and the King, the integrity of your hearts, and the cleanneſs of your hands, and the hands of former times, in the matter of that wedge of gold of 200000 <hi>l.</hi> at <hi>New<g ref="char:EOLhyphen"/>caſtle,</hi> anno 1646, at the return of your Armies; and the re<g ref="char:EOLhyphen"/>mitting of that juſt one, the late King, to his Kingdom of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and both Houſes of Parliament: Whether it was the price of that ſacred bloud or not, (as is too publikely reviled, and caſt in the teeth of all Scotchmen, with bitterneſs and grief of heart to the body of the Land) or whether it was a part of the lawful Wages and deſerved Pay of your Souldiery, for their more peaceable removing out of <hi>England</hi> by the Kings high<g ref="char:EOLhyphen"/>way, without turning into the Fields or the Vineyards, or drink<g ref="char:EOLhyphen"/>ing of the waters of the Wells: And put the account thereof to the view of all men, for ſtopping the mouth of iniquity in that ſuſpected accurſed thing.</p>
+            <p>Publiſh to the world your and former times profeſſed faithful care at that time, (affirmed confidently to the Souldiery and all the good people of the Land) that honour, freedom and ſafety to that Royal Prince, was ſufficiently ſecured and provided for, from that Parliament in <hi>England.</hi> Declare how your and their Counſels and Debates in the Painted Chamber at <hi>Weſtminſter</hi> in <hi>October</hi> 1646, concerning his Majeſties Perſon, hath been zealous, faithful, loyal and upright; and where the horrid breach of that tranſaction did lie, for the vindication of the ancient honour and true loyalty of your Nation.</p>
+            <pb n="8" facs="tcp:135671:6"/>
+            <p>Cleanſe your and former times hearts, counſels and ways, of that unparallel'd and never the like heard of before, ſeizing up<g ref="char:EOLhyphen"/>on the Lords Anointed at <hi>Holmby</hi>-Houſe, and carrying him about all the Cities of the wicked <hi>Philiſtims,</hi> with bloudy hearts and hands, and cloſing him up at laſt in the Iſle of <hi>Wight,</hi> which was (as the Iſle of <hi>Patmos</hi> to S. <hi>John the Divine</hi>) the place of heavens Revelations to his holy ſoul, againſt the farther evil day, and the weight and ſtrength of his conſolations by the miniſtring of An<g ref="char:EOLhyphen"/>gels, againſt the day of his ſufferings by the hand of men through Divine permiſſion.</p>
+            <p>Make good Anſwer to that Objection, of ſuſpected diſloyalty, and uncharitable forſaking of your Churches prayers and con<g ref="char:EOLhyphen"/>currence, for the better encouragement of that Expedition and Army, <hi>anno</hi> 1648, for relief of his late Majeſties Perſon out of the aforeſaid Iſle of <hi>Wight.</hi>
+            </p>
+            <p>Moreover, put in yours and former times plea in the Court of heaven, and declare before God and his holy Angels, and the children of men, your and their innocencie, in thoſe deep plot<g ref="char:EOLhyphen"/>tings, and contrivings, and Cabinet-counſels at the Lady <hi>Humes</hi> houſe at <hi>Edinburgh</hi> and elſewhere (as is generally reported and affirmed) with that <hi>Lucifer</hi> and Tyrant from hell for a ſcourge to the Nations, concerning that abominable Regicide, and hor<g ref="char:EOLhyphen"/>rid bloudy murder of the late King; and the ſincerity of yours and their Proteſtations againſt the ſame, the day of his ſuffering, in token of your deteſtation thereof.</p>
+            <p>And laſtly, vindicate or condemn former times deportments to your preſent Lord and King, in thoſe two Battels at <hi>Dunbar</hi> and <hi>Worceſter,</hi> in withdrawing his Princely care and command, wiſdom and courage from the firſt, (whether upon the terms that <hi>Davids</hi> Captains and Army did to him at <hi>Mahanaim,</hi> in their marching againſt his rebellious ſon <hi>Abſalom,</hi> (becauſe that he was the light of his people, and his life worth ten thouſand of theirs) or upon the account of ſuſpected diſloyalty by the uſur<g ref="char:EOLhyphen"/>pation of his Government, and Command of his Militia and Forces, contrary to the Royal Prerogative and eſſential right of his Crown;) And in weakning his Armies in the laſt Battel of <hi>Worceſter,</hi> by withdrawing of ſeveral Forces from his Camp at <hi>Sterling</hi> before their marching to <hi>England;</hi> albeit at that time,
+<pb n="9" facs="tcp:135671:6"/>the common Enemy to both was then in the Land; and if there, <hi>Scotland</hi> could not without their Head the King, encounter him in open Battel, or flying Skirmiſh: yet loyalty, common wiſ<g ref="char:EOLhyphen"/>dom and courage would have joyned to go into <hi>England</hi> with their valiant reſolute Prince; if not to defeat that wicked party there, yet to have eaſed their own Nation of his conſuming vio<g ref="char:EOLhyphen"/>lence by way of diverſion. And whether the unfortunate event of thoſe two fatal diſmal days, was through want of Military skill, ſlothful negligence, or otherwiſe; or by wilful ignorance, and groſs, downright, deſperate and diſloyal careleſneſs, which is no<g ref="char:EOLhyphen"/>thing leſs then Treaſon againſt King and Country, and Murder of ſo many precious ſouls. Sure it is, want of courage and re<g ref="char:EOLhyphen"/>ſolution in thoſe two valiant Armies, was not the cauſe.</p>
+            <p>And now to ſpeak but this once more, and let not the moſt honourable Parliament be offended. Declare your deep ſenſe of, and ſympathie with the Peoples deplorable ſufferings theſe 22 years paſt, in their Fortunes and Eſtates, and disburſments for you and former times: And that in your righteouſneſs to the Law of Nature, Nations, and Faith amongſt men, and common honeſty amongſt Chriſtians without fraud or violence, and ho<g ref="char:EOLhyphen"/>nour of Parliaments and Parliamentary Promiſes and Proteſta<g ref="char:EOLhyphen"/>tions before heaven and earth, You will reſolve, before diſſol<g ref="char:EOLhyphen"/>ving, upon the ſpeedieſt effectual ways of Satisfaction of the Debts of thoſe, who are now utterly ruined in their former pre<g ref="char:EOLhyphen"/>tious eſteem in the world, and plentiful condition beyond their neighbours; and by whoſe ſufferings, a publike calamity doth follow to many ſcores of poor Orphans and deſolate Widows, through their truſt to them for the Publike.</p>
+            <p>As the generality of <hi>Scotland</hi> may and can witneſs heaven and earth of their innocencie in all theſe things, and with honeſt hearts may comfort themſelves, in their conſcientious Loyalty to God and his Vicegerents in their generations upon earth, e<g ref="char:EOLhyphen"/>qually with any other People or Subject whatſoever: ſo in cha<g ref="char:EOLhyphen"/>rity it may be conceived, that other States-men and then Rulers for the time, and the now preſent Heads of the Tribes of <hi>Iſrael</hi> in Parliament aſſembled, are likewiſe ſo. Yet the ſmoaking for<g ref="char:EOLhyphen"/>nace of that ſtinking ſmell of the worlds Reproach and Oppro<g ref="char:EOLhyphen"/>bry to <hi>Scotland</hi> in all theſe matters, is not to this day, nor ever
+<pb n="10" facs="tcp:135671:7"/>will be quenched nor diſpelled, till your fair, honeſt, ingenuous and large Declaration in all the premiſes, (after the laudable example of the two Tribes and a half at <hi>Gilead,</hi> to their bre<g ref="char:EOLhyphen"/>thren the ten Tribes in <hi>Canaan</hi>) appear, and be emitted to the world: And if guiltineſs be in ſome, let not the righteous be as the wicked, the clean as the unclean, the good as the ſinner, he that feareth an Oath as he that ſweareth: let the vile be ſepara<g ref="char:EOLhyphen"/>ted from the pretious, and the wicked cut off from the Congre<g ref="char:EOLhyphen"/>gation of the Lord: Let ſentence againſt an evil work be ſpee<g ref="char:EOLhyphen"/>dily executed, that the heart of the ſons of men be not fully ſet in them to do evil: Give them according to their deeds, and according to the wickedneſs of their endeavours: Let their houſes be made dung-hills, and their mothers childleſs, with the perpetual note of ſhame and ignominy in all their remem<g ref="char:EOLhyphen"/>brances, by the characters of <hi>The ſons of Jeroboam who made Iſrael to ſin,</hi> and of <hi>Judas Iſcariot who betrayed Chriſt</hi> and his Anointed, and of that <hi>Dathan and Abiram, which were famous in the con<g ref="char:EOLhyphen"/>gregation, and ſtrove againſt Moſes and Aaron in the company of Co<g ref="char:EOLhyphen"/>rah, and againſt the Lord; and they became a ſigne.</hi>
+            </p>
+            <p>And by ſo doing, God in his truth and juſtice ſhall be honou<g ref="char:EOLhyphen"/>red, the heart of his King ſhall overflow in affections and zeal to the welfare of his people, through a full perſwaſion of their former and future Loyalty; your Publike Faith to many honeſt-hearted men in that Cauſe (hitherto too much ſlighted and neg<g ref="char:EOLhyphen"/>lected by former times and your ſelves) ſhall be by his goodneſs and conſent ſatisfied; The honour of <hi>Scotland</hi> ſhall be vindica<g ref="char:EOLhyphen"/>ted from lying and ſcandalous reproaches of the wicked ſons of <hi>Balaam;</hi> yea, the earth ſhall be at reſt and quiet, the Fir-trees and Cedars of <hi>Lebanon</hi> ſhall rejoyce; and all the Tribes of <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> in his Majeſties Dominions ſhall ſay and ſing, This day we perceive that the Lord is amongſt us, becauſe by the building of that great Altar to ſee to, of the National Covenant, <hi>anno</hi> 1638. nor by the League and Covenant, <hi>anno</hi> 1643, you and former Rulers have not committed this treſpaſs againſt the Lord, in do<g ref="char:EOLhyphen"/>ing wickedneſs under the ſhadow of holineſs, nor done Rebelli<g ref="char:EOLhyphen"/>on againſt his Anointed, under the ſaid cloak of Religion; nor pillaged your Country by covetouſneſs and ambition, with briery <hi>Abimelah</hi> the ſon of the Concubine, under colour of aſſertors
+<pb n="11" facs="tcp:135671:7"/>of her Chriſtian and juſt Liberty in Church and State, theſe fa<g ref="char:EOLhyphen"/>tal years laſt: And that now you have delivered your own people in <hi>Scotland,</hi> and brethren in <hi>England</hi> and <hi>Ireland,</hi> out of the hand of the Lord and his Anointed, while thoſe Altars of Covenants, were not made by you, to the change of Religion or Government, by unlawful Burnt-offerings of worſhip to any other God, or homage to any other Governour; but for a wit<g ref="char:EOLhyphen"/>neſs of holy emulation between you and your Brethren, for the farther propagation of the Goſpel, and juſt Reformation in the time of dangerous ſecurity and deadneſs, or fear of backſliding from your firſt love to Chriſt your Redeemer.</p>
+            <p>And if in this day of your General Meeting, (as the Repre<g ref="char:EOLhyphen"/>ſentative of your Nation) you do not thus declare and judge as aforeſaid, and that your hearts and tongues be not valiant for truth to God and man, for the honour of God, and your King and Nation, (which was the very fundamental of all your Co<g ref="char:EOLhyphen"/>venants, and the Motto of your diſplayed Banners upon every mountain and hill) and at this time of reſtoring of all things, you be ſilent in your Countries behalf, againſt thoſe ſerpentine hearts of bitterneſs, and razers, ſwords, and coals of Juniper of fiery tongues at home and abroad, in thoſe their former and preſent reproaches, ſcoffings, mockings, and revilings of your Nation, and thouſands of innocent honeſt-hearted people there, upon that their ſuſpected account of former times diſloyalty, forſaking, and rebelling againſt God and his Vicegerent your Native Prince: Then what may they ſay, but that you are wrapt up with others in the ſame guiltineſs, and that <hi>ſuch onely as keep the law contend with the wicked?</hi>
+            </p>
+            <p>His Majeſties gracious Indulgence to ſome by Pardon, in this day of the Lords deliverance to himſelf, may exempt from the evil of puniſhment of men, but not from the evil of ſin before God, or ſhame amongſt others in the like tranſgreſſion: yea, the Pardon preſuppoſes their confeſſed Guiltineſs in the Law: for, <hi>the ſick and not the whole needeth the phyſician:</hi> And their guilt may be thought to be of knowledge alſo, more then of igno<g ref="char:EOLhyphen"/>rance; for the Rich onely and Ringleaders of former times, and not the Poor, are hitherto pardoned, till the Kings heart, as an Angel of God, do forget all the conceived infirmities of his
+<pb n="12" facs="tcp:135671:8"/>honeſt-hearted people, in the way his Royal wiſdom ſhall think fit.</p>
+            <p>In the like condition with the Pardoned, are the Heirs and Children of them that are dead: for albeit by death, their fa<g ref="char:EOLhyphen"/>thers perſonal reproach doth ceaſe, yet in the children of thoſe parents, does their ſhame ſtill remain with the reſt that are li<g ref="char:EOLhyphen"/>ving in the world, till their former ways be juſtified by upright<g ref="char:EOLhyphen"/>neſs and integrity of heart, whatever be the profeſſed repen<g ref="char:EOLhyphen"/>tance, or contrary preſent actings of the one, or the other, (by the changed face of providences, in times of <hi>a new heaven and a new earth</hi>) and their undeſerved reflections, and forſakings of their firſt friends, of whoſe ſimplicity of heart, and honeſt mea<g ref="char:EOLhyphen"/>ning and weakneſs (to their utter ruine this day) they before made uſe, and ſerved themſelves by, in the time of their former deportments for theſe aſſerted publike ends.</p>
+            <p>What return can you make to your Country, who thus have aſſembled you at the command of their Prince, when you clear not his countenance to them in his perſwaſion of their former Loyalty, nor vindicate by Declaration, and Juſtice upon the wicked, the honour of your Nation amongſt men? And who knows whether you are not met together for ſuch a day as this, and therein to reſtore the periſhed, and relieve the diſtreſſed by your Publike Faith, and preſerve the honour of your Nation from the unjuſt opprobry of <hi>Fides Publica fides Punica,</hi> and the credit of Goſpel-Reformation from fraud, deceit and oppreſſi<g ref="char:EOLhyphen"/>on?</p>
+            <p>Elſe be aſſured, if you altogether hold your peace at this time, enlargement and deliverance from this unjuſt infamy by wicked men, and ſufferings of the ſimple in eſtate, ſhall riſe to <hi>Scotland</hi> from another place; but you and your fathers houſes may be deſtroyed: And in the mean time, the uprightneſs of <hi>Scotlands</hi> heart, and honeſt loyal meaning to God and their Soveraign Lord the King, in their reſpective bounds and relations, with ſubordination of the one to the other (notwith<g ref="char:EOLhyphen"/>ſtanding of all obloquie, contradiction, calumny and detraction by Nations or ſingle perſons) is, and ſhall be ſealed up, firm and ſure in heaven, before the Lord the ſearcher of all hearts, and his holy Angels; To the praiſe of his truth and righteouſneſs, and
+<pb n="13" facs="tcp:135671:8"/>the comfort and rejoycing of every good Chriſtian and Subject there, at the day of their death and particular Judgement, be<g ref="char:EOLhyphen"/>fore the Tribunal of Chriſt, and at the Great day of the Lord, when every man ſhall receive his reward, according to his works done in the fleſh. And that Publike Faith to the upright-heart<g ref="char:EOLhyphen"/>ed people in the work, (albeit at this time alſo, neglected by you) ſhall be to their poſterity, the harveſt of their faith upon earth; Peace and inward conſolations ſhall be ſown for the righ<g ref="char:EOLhyphen"/>teous, whatever be their outward troubles and neceſſities; And ſome time or other, their horn ſhall be exalted, for the grace of their ſimplicity of heart, all along the way, for a juſt and diſcreet Reformation of Religion, and ſure eſtabliſhment of Royal Authority in the houſe of <hi>David,</hi> while Sun and Moon endureth, upon the pillars of Truth, Juſtice, Righteouſneſs and Mercy.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:135671:9" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
